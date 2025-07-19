@@ -1,0 +1,33 @@
+
+
+## 📚 Dataset
+
+* **Dataset name:** Flickr8k
+* **Source:** Kaggle — [Flickr8k dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k)
+
+### 📝 About the Flickr8k Dataset
+
+The Flickr8k dataset is a well-known benchmark in the field of image captioning. It comprises **8,092 JPEG images**, each accompanied by **five human-generated captions**, totaling over 40,000 descriptive sentences([Kaggle][1], [Kaggle][2], [Medium][3]).
+
+Key characteristics:
+
+* **Diversity of content**: Images depict a wide variety of everyday scenes–people, animals, outdoor and indoor settings, actions, and objects–making the dataset suitable for general-purpose captioning tasks([GTS AI][4]).
+* **Rich language coverage**: With a vocabulary size in the thousands and average caption lengths around 10–11 words, captions provide rich context for visual features([Medium][3]).
+* **Standard splits**: Commonly divided into 6,000 training images, 1,000 validation, and 1,000 testing images([Medium][3]).
+* **Multi-caption annotations**: Each image has five independent caption sentences, allowing evaluation with metrics like BLEU and offering variability in expression([GeeksforGeeks][5]).
+
+**Why use Flickr8k?**
+
+* It's **compact yet diverse**, making it ideal for development and research on limited compute resources.
+* The multiple captions per image enable models to learn expressive and varied language patterns.
+* It’s widely used as a **baseline dataset** in both academic and industry projects, especially for LSTM-based caption generators, making it easy to compare results with existing work.
+
+---
+
+Would you like me to integrate this into the full README structure, including setup instructions and usage examples?
+
+[1]: https://www.kaggle.com/datasets/dibyansudiptiman/flickr-8k?utm_source=chatgpt.com "Flickr8k Image Dataset - Kaggle"
+[2]: https://www.kaggle.com/datasets/adityajn105/flickr8k?utm_source=chatgpt.com "Flickr 8k Dataset - Kaggle"
+[3]: https://medium.com/%40raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4bcba0b52926?utm_source=chatgpt.com "Image Captioning With Flickr8k Dataset & BLEU | by Raman Shinde"
+[4]: https://gts.ai/dataset-download/flickr8k-image-dataset/?utm_source=chatgpt.com "Flickr8k Image Dataset - GTS.AI"
+[5]: https://www.geeksforgeeks.org/image-caption-generator-using-deep-learning-on-flickr8k-dataset/?utm_source=chatgpt.com "Image Caption Generator using Deep Learning on Flickr8K dataset"
