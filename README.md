@@ -1,6 +1,9 @@
 🔍 Project Overview
+
 This project implements an Image Caption Generator using an LSTM-based model, which combines computer vision (via CNNs) with natural language processing to generate textual descriptions for images.
+
 📌 Key Features
+
 CNN Feature Extraction: Uses a pre-trained InceptionV3 model to extract features from images.
 
 LSTM Decoder: Takes image features + partial captions to predict the next word.
