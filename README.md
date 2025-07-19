@@ -46,4 +46,5 @@ The model uses BLEU score for evaluation of caption quality.
 📸 Example Output
 
 <img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/9f10bd89-304f-4167-8377-91648cfc47c3" />
+
 "a dog is running in the field"
